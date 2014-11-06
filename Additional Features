@@ -1,0 +1,12 @@
+Additional Features
+
+Features to be added in the application:
+One more table view controller holding some features:
+Yoga
+Running
+Nutrition and sleep
+This view controller will be segue through the present home table view controller view controller with some information about the added features. 
+
+Also Change the background of the application with some images.
+
+Cheers
